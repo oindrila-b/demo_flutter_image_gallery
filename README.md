@@ -15,8 +15,3 @@ A few screenshots to the application :
  
  <img src="images/searchresult2.png" width=500>       <img src="images/Screenshot_1646419588.png" width=500>
 
-![](images/appoverview.png) ![](images/homepage.png)
-
-![](images/search.png) ![](images/searchresult.png)
-
-![](images/searchresult2.png) ![](images/Screenshot_1646419588.png)
