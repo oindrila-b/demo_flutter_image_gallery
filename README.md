@@ -9,6 +9,7 @@ This project is a small Flutter application that uses pexel api to fetch images,
 
 A few screenshots to the application :
 
+<img src="images/appoverview.png" width=100>
 
 ![](images/appoverview.png) ![](images/homepage.png)
 
