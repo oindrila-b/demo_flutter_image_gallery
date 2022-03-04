@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# imagegallery
+
+# ImageGallery
 
 A new Flutter project.
 
@@ -8,4 +8,6 @@ A new Flutter project.
 This project is a small Flutter application that uses pexel api to fetch images, lets the user search and save various images.
 
 A few screenshots to the application :
+
+
 
