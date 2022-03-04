@@ -10,15 +10,8 @@ This project is a small Flutter application that uses pexel api to fetch images,
 A few screenshots to the application :
 
 
-![](images/appoverview.png)
+![](images/appoverview.png) ![](images/homepage.png)
 
-![](images/homepage.png)
+![](images/search.png) ![](images/searchresult.png)
 
-![](images/search.png)
-
-
-![](images/searchresult.png)
-
-![](images/searchresult2.png)
-
-![](images/Screenshot_1646419588.png)
+![](images/searchresult2.png) ![](images/Screenshot_1646419588.png)
